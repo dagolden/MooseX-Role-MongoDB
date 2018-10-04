@@ -11,7 +11,7 @@ use Moose::Role 2;
 use MooseX::AttributeShortcuts;
 
 use Carp ();
-use MongoDB 1;
+use MongoDB 2;
 use MongoDB::MongoClient 1;
 use Socket 1.96 qw/:addrinfo SOCK_RAW/; # IPv6 capable
 use String::Flogger qw/flog/;

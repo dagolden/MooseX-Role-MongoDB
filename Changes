@@ -2,6 +2,10 @@ Revision history for MooseX-Role-MongoDB
 
 {{$NEXT}}
 
+    [INCOMPATIBLE CHANGES]
+
+    - Requires MongoDB v2.0.0 or later
+
 0.010     2016-12-12 11:24:46-05:00 America/New_York
 
     [CHANGED]
